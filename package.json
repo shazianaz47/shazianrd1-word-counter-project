@@ -1,0 +1,20 @@
+{
+  "name": "shazianrd-word-counter",
+  "version": "1.0.0",
+  "description": "This is simple word counting game with typescript,inquirer and chalk",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.3.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
